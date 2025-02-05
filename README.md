@@ -91,4 +91,4 @@ onde tem meu CV atualizado.
     align="left"
         alt="Github Stats"
         width="300px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Guuh0&layout=compact&theme=radical" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Guuh0&layout=compact&theme=radical&custom_title=Aprendizado&locale=pt-br" />

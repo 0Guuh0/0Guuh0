@@ -84,12 +84,11 @@ onde tem meu CV atualizado.
     align="left"
         alt="Github Stats"
         height="200px"
-        style="margin-top: 20px"
+        style="margin: 20px 0px 20px 0px"
         style="padding-left: 10px"
         src="https://github-readme-stats.vercel.app/api?username=0Guuh0&show_icons=true&theme=radical&include_all_comitts=true&locale=pt-br" />
 <img
     align="left"
         alt="Github Stats"
-        height="200px"
-        style="margin-top: 20px"
+        width="300px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Guuh0&layout=compact&theme=radical" />

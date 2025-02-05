@@ -92,5 +92,4 @@ onde tem meu CV atualizado.
         alt="Github Stats"
         height="200px"
         style="margin-top: 20px"
-        style="padding-left: 10px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Guuh0&layout=compact&theme=radical" />
